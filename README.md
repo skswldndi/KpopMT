@@ -8,14 +8,13 @@ While machines learn from existing corpora, humans have the unique capability to
 ## Citation
 
 ```bibtex
-@inproceedings{kim-etal-2024-kpopmt,
-    title = "{KpopMT}: Translation Dataset with Terminology for Kpop Fandom",
-    author = "Kim, JiWoo  and
-      Kim, Yunsu  and
-      Bak, JinYeong",
-    booktitle = "Proceedings of the Seventh Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT 2024)",
-    month = aug,
-    year = "2024",
-    address = "Bangkok, Thailand",
-    publisher = "Association for Computational Linguistics"}
+@misc{kim2024kpopmttranslationdatasetterminology,
+      title={KpopMT: Translation Dataset with Terminology for Kpop Fandom}, 
+      author={JiWoo Kim and Yunsu Kim and JinYeong Bak},
+      year={2024},
+      eprint={2407.07413},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.07413}, 
+}
 ```
